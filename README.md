@@ -50,6 +50,19 @@ Sudden fluctuations in accuracy or loss are expected due to varying caption comp
 - Evaluate using BLEU or CIDEr metrics
 - Fine-tune the CNN encoder
 
+  ## How to Run
+1. Install dependencies using:
+2. Open the notebook and run all cells sequentially.
+3. Update dataset paths if required.
+
+## Technologies Used
+- Python
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+
+
 
 
 
