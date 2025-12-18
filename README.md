@@ -50,8 +50,7 @@ Sudden fluctuations in accuracy or loss are expected due to varying caption comp
 - Evaluate using BLEU or CIDEr metrics
 - Fine-tune the CNN encoder
 
-## How to Run
-1. Install dependencies using:
+
 
 
 
