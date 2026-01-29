@@ -1,6 +1,6 @@
 # Image Caption Generation using CNN–LSTM
 
-## Overview
+## Overview    
 This project implements an end-to-end image captioning system that automatically generates textual descriptions for images. The model follows an encoder–decoder architecture, where a pretrained Convolutional Neural Network (CNN) extracts visual features and an LSTM-based decoder generates captions word by word.
 
 ## Objective
